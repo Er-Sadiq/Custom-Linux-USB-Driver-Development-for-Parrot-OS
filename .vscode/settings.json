@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "numeric": "c",
+        "version.h": "c",
+        "module.h": "c",
+        "kernel.h": "c",
+        "usb.h": "c"
+    }
+}
